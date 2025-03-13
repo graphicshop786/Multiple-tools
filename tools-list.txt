@@ -1,0 +1,126 @@
+===== Complete Tools List =====
+
+1. IMAGE TOOLS
+-------------
+1. Screenshot to PDF
+2. GIF Maker
+3. QR Code Scanner
+4. QR Code Generator
+5. WebP to PNG Converter
+6. Image to Base64
+7. Image Cropper
+8. Image Format Converter
+9. Image Resizer
+10. Meme Generator
+11. Image Compressor
+
+2. GRAPHICS DESIGN TOOLS
+-----------------------
+1. Color Palette Generator
+2. Poster Maker
+3. Icon Maker
+4. Photo Editor
+5. Image Crop & Resize
+6. Logo Maker
+7. Font Preview
+8. Background Remover
+
+3. UTILITY TOOLS
+---------------
+1. Color Picker
+2. Barcode Generator
+
+4. GAME TOOLS
+------------
+1. Random Name Generator
+2. Dice Roller
+3. Lottery Generator
+
+5. DOCUMENT TOOLS
+----------------
+1. Document Merger
+2. Text Editor
+3. Resume Builder
+4. PDF Generator
+5. Note Taking
+6. Markdown Editor
+7. Invoice Generator
+8. Document Viewer
+9. Document Splitter
+10. Document Scanner
+11. Document Converter
+
+6. SECURITY TOOLS
+----------------
+1. Password Generator
+2. IP Lookup
+
+7. CALCULATORS
+-------------
+1. Scientific Calculator
+2. Percentage Calculator
+3. Tip Calculator
+4. Binary Decimal Converter
+5. Timezone Converter
+6. Currency Converter
+7. Discount Calculator
+8. Loan EMI Calculator
+9. BMI Calculator
+10. Age Calculator
+
+8. TEXT TOOLS
+------------
+1. Word Counter
+2. Character Counter
+3. Case Converter
+4. Plagiarism Checker
+5. Grammar Checker
+6. Text to Speech
+7. Speech to Text
+8. URL Encoder/Decoder
+9. Fancy Text Generator
+10. Random Text Generator
+
+9. DEVELOPER TOOLS
+-----------------
+1. JSON Formatter
+2. HTML to Markdown
+3. CSS Minifier
+4. JS Minifier
+5. SQL Formatter
+6. HTAccess Generator
+7. Markdown to HTML
+8. Base64 Converter
+9. JavaScript Minifier
+
+10. CONVERTERS
+-------------
+1. Temperature Converter
+2. Weight Converter
+3. Length Converter
+4. Speed Converter
+5. Angle Converter
+6. Fuel Efficiency Converter
+7. Pressure Converter
+8. Energy Converter
+9. Data Storage Converter
+10. Volume Converter
+
+11. SEO TOOLS
+------------
+1. XML Sitemap Validator
+2. Sitemap Generator
+3. Robots.txt Generator
+4. Page Speed Checker
+5. Mobile Friendly Test
+6. Keyword Density Checker
+7. Google Index Checker
+8. Domain Authority Checker
+9. Backlink Checker
+10. Meta Tag Generator
+
+=========================
+Total Tools: 100
+
+Last Updated: March 11, 2024
+Note: This list includes all tools found in the tools directory. 
