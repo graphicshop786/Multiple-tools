@@ -10,6 +10,12 @@ async function loadHeader() {
 
         // Initialize search functionality
         initializeHeaderSearch();
+        
+        // Load ads after header is loaded
+        if (window.AdsLoader) {
+            const adsLoader = new window.AdsLoader();
+            adsLoader.loadHeaderAds();
+        }
     } catch (error) {
         console.error('Error loading header:', error);
     }
@@ -139,11 +145,19 @@ document.addEventListener('DOMContentLoaded', function() {
                         </div>
                     </div>
                 </nav>
+                <!-- Header Ads Container -->
+                <div class="header-ads-container"></div>
             </header>
         `;
         
         // Initialize header search after adding the header
         initializeHeaderSearch();
+        
+        // Load ads after header is loaded
+        if (window.AdsLoader) {
+            const adsLoader = new window.AdsLoader();
+            adsLoader.loadHeaderAds();
+        }
     }
     loadHeader();
 }); 

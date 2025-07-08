@@ -7,6 +7,12 @@ async function loadFooter() {
         const response = await fetch(componentsPath);
         const footerContent = await response.text();
         document.getElementById('footer-placeholder').innerHTML = footerContent;
+        
+        // Load ads after footer is loaded
+        if (window.AdsLoader) {
+            const adsLoader = new window.AdsLoader();
+            adsLoader.loadFooterAds();
+        }
     } catch (error) {
         console.error('Error loading footer:', error);
     }
@@ -44,6 +50,8 @@ document.addEventListener('DOMContentLoaded', function() {
     if (footerPlaceholder) {
         footerPlaceholder.innerHTML = `
             <footer class="mt-5">
+                <!-- Footer Ads Container -->
+                <div class="footer-ads-container"></div>
                 <div class="container">
                     <div class="row g-4">
                         <div class="col-lg-4">
@@ -74,6 +82,12 @@ document.addEventListener('DOMContentLoaded', function() {
                 </div>
             </footer>
         `;
+        
+        // Load ads after footer is loaded
+        if (window.AdsLoader) {
+            const adsLoader = new window.AdsLoader();
+            adsLoader.loadFooterAds();
+        }
     }
     loadFooter();
 }); 
